@@ -9,7 +9,7 @@
 
  🌱 As a Biotechnology enthusiast and Full Stack Developer, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
 
-My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. I believe in the power of collaborative innovation to address the most pressing challenges of our generation and beyond. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
+My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
 
 
 
