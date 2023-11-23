@@ -2,8 +2,6 @@
 
 ![Snake animation](https://github.com/Bucanero06/Bucanero06/blob/output/github-contribution-grid-snake.svg)
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
 ```yaml
 name: Ruben Alejandro Fernandez Carbon
 located_in: Orlando, Florida
@@ -35,8 +33,7 @@ hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
 ```
   
 ---  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
