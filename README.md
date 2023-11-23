@@ -1,11 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Think%20Unearth%20Manifest&fontSize=60&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Think%20Unearth%20Manifest&fontSize=60&animation=fadeIn"/>
+</p>
 
-![Snake animation](https://github.com/Bucanero06/Bucanero06/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">👋 Hi, I'm Ruben Alejandro Fernandez Carbon</h2>
+<p align="center">
+  <em>Full Stack Developer and Founder at Carbonyl R&D</em>
+</p>
+
+ 🌱 As a Biotechnology enthusiast and Full Stack Developer, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
+
+My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. I believe in the power of collaborative innovation to address the most pressing challenges of our generation and beyond. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
+
+
+
+<!--- 
+![Snake animation](https://github.com/Bucanero06/Bucanero06/blob/output/github-contribution-grid-snake.svg) 
+--->
 
 ```yaml
 name: Ruben Alejandro Fernandez Carbon
 located_in: Orlando, Florida
-current_job: Full Stack Developer and Founder
+current_role: Full Stack Developer and Founder
 education:
   [
     "Bachelor's in Biotechnology",
@@ -17,21 +32,30 @@ company: Carbonyl R&D
 
 fields_of_interests:
   [
-    "Quantum Biology",
-    "Data Science",
-    "Machine Learning",
-    "Event-Driven Architecture",
-    "Charge Migration",
-    "Network Theory",
+    "Technological Solutions for Space Exploration",
+    "Integrating Biotechnology with Advanced AI",
+    "Data Science in Translational Research",
+    "Machine Learning in Complex Systems",
+    "Bridging Technology and Society for a Connected Future",
+    "Innovations in Quantum Biology and Computational Physics",
+    "Advancing Human Knowledge and Capacity for Future Generations",
   ]
 technical_background:
   [
-    ... hold ...
+    "Programming Languages: Python, JavaScript, C#, C, Rust",
+    "Data Science & Machine Learning: Sklearn, SciPy, Keras, TensorFlow, RAPIDS, Ray, Pandas, Numpy",
+    "Web Development: FastAPI/Uvicorn, Pydantic, React, Node.js, HTML5, CSS3, Bootstrap",
+    "Database Management: PostgreSQL, Redis",
+    "DevOps & Virtualization: Docker, Kubernetes, Terraform, AWS, GCP",
+    "Version Control & CI/CD: Git, GitHub, Continuous Integration and Deployment Concepts",
+    "High-Performance Computing: OpenMolcas, RAPIDS, Ray",
+    "Quantitative Analysis Tools: DensityPy, NautilusTrader, Vectorbt",
+    "Other Skills: Debugging, Performance Optimization, Unit Testing, Software Design, Infrastructure Testing",
   ]
-  
+
 hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
 ```
-  
+
 ---  
 
 <p align="left">
@@ -59,23 +83,9 @@ hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
----
 
-  
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-<!--
-**Bucanero06/Bucanero06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
