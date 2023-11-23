@@ -10,7 +10,7 @@ education:
   [
     "Bachelor's in Biotechnology",
     "Minor in Physics",
-    "Associate with Chemistry Track",
+    "Associate of Arts with Chemistry Track",
     "Self-Taught Programmer and Business Owner",
   ]
 company: Carbonyl R&D
