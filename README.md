@@ -42,15 +42,15 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Programming Languages: Python, JavaScript, C#, C, Rust",
-    "Data Science & Machine Learning: Sklearn, SciPy, Keras, TensorFlow, RAPIDS, Ray, Pandas, Numpy",
+    "Programming Languages: Python, Fortran, Rust, JavaScript, CHTML, C(#,++)",
+    "Data Science & Machine Learning: Sklearn, SciPy, Keras, TensorFlow, RAPIDS, Ray, Pandas, Numpy, Dask, Numba",
     "Web Development: FastAPI/Uvicorn, Pydantic, React, Node.js, HTML5, CSS3, Bootstrap",
-    "Database Management: PostgreSQL, Redis",
+    "Database Management: PostgreSQL, Redis, Apache Kafka, MySQL, MongoDB, Firestore",
     "DevOps & Virtualization: Docker, Kubernetes, Terraform, AWS, GCP",
     "Version Control & CI/CD: Git, GitHub, Continuous Integration and Deployment Concepts",
-    "High-Performance Computing: OpenMolcas, RAPIDS, Ray",
-    "Quantitative Analysis Tools: DensityPy, NautilusTrader, Vectorbt",
-    "Other Skills: Debugging, Performance Optimization, Unit Testing, Software Design, Infrastructure Testing",
+    "High-Performance Computing: OpenMolcas, RAPIDS, Ray, Dask, DensityPy, NautilusTrader, Vectorbt",",
+    "Quantitative Analysis Tools: ASTRA, NautilusTrader, Vectorbt, DensityPy",
+    "Other Skills: Debugging, Software Design, Cloud Infrastructure, Only Use Linux, Unit Testing, ",
   ]
 
 hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
@@ -82,6 +82,8 @@ hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucanero06&hide=jupyter%20notebook&layout=donut&langs_count=10)
 
 
 <p align="left">
