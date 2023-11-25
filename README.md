@@ -32,13 +32,15 @@ company: Carbonyl R&D
 
 fields_of_interests:
   [
-    "Innovations in Quantum Biology and Computational Physics",
-    "Technological Solutions for Space Exploration",
-    "Integrating Biotechnology with Advances Artificial Intelligence",
-    "Data Science in Translational Research",
-    "Machine Learning in Complex Systems",
-    "Charge Migration in Open-Quantum System",
-    "Advancing Human Knowledge and Capacity for Future Generations",
+    "Emerging Trends in Quantum Biology and Computational Physics, with a focus on Quantum Computing Applications and Computational Models in Particle Physics",
+    "Advanced Technologies for Deep Space Exploration and Astrobiology, including Nanotechnology in Spacecraft Design and Research into Extremophiles",
+    "Synergizing Biotechnology with Cutting-Edge Artificial Intelligence",
+    "Data Science Applications in Genomics and Personalized Medicine",
+    "Machine Learning Algorithms for Predictive Modeling in Complex Systems",
+    "Electron and Charge Migration in Open-Quantum Systems",
+    "Advancing Human Knowledge of Sustainable Earth and Space Habitats, emphasizing on Sustainable Energy Solutions",
+    "Integration of IoT and Biotechnology for Smart Healthcare Solutions",
+    "Applying Interdisciplinary Expertise to Decode and Leverage the Expanding Universe of Government-Backed Research for Innovative Solutions"
   ]
 technical_background:
   [
