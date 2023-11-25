@@ -83,8 +83,10 @@ hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bucanero06&hide=jupyter%20notebook&layout=donut&langs_count=10)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bucanero06&hide=jupyter%20notebook&layout=donut&langs_count=5" width="400" />
+  <img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/e9e8a290-9e74-4d45-96ae-4114e423f637" width="400" />
+</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
