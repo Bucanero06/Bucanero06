@@ -52,7 +52,7 @@ technical_background:
     "Version Control & CI/CD: Git, GitHub, GitLab, Bitbucket, Continuous Integration and Deployment Concepts",
     "High-Performance Computing: OpenMolcas, RAPIDS, Ray, Dask, DensityPy, NautilusTrader, Vectorbt",
     "Quantitative Analysis Tools: ASTRA, NautilusTrader, Vectorbt, DensityPy",
-    "Other Skills: Debugging, Software Design, Cloud Infrastructure, Only Use Linux, Unit Testing, ",
+    "Other Skills: Debugging, Software Design, Cloud Infrastructure, Only Use Linux, Unit Testing"
   ]
 
 hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
