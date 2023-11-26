@@ -112,7 +112,6 @@ hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
   <img src="https://perso.ens-lyon.fr/martin.verot/images/molcas_logo.png" width="45" height="45"/>
   <img src="https://lastmile-ai.com/wp-content/uploads/2019/09/tools-numba-icon.png" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="80" height="45"/>
-  <img src="https://molcas.gitlab.io/OpenMolcas/sphinx/_static/logo.png" width="80" height="45"/>
   <img src="https://nautilustrader.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnautilus-logo-sm.7c6c9055.png&w=1920&q=75" width="80" height="45"/>
   <img src="https://vectorbt.dev/assets/logo/header.svg" width="80" height="45"/>
 
