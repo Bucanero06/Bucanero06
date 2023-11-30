@@ -62,7 +62,7 @@ technical_background:
     "Other Skills: Debugging, Software Design, Cloud Infrastructure, Only Use Linux, Unit Testing"
   ]
 
-hobbies: ["Gaming", "Writing", "Soccer", "Philosophy", "Comedy"]
+hobbies: ["Soccer", "Writing", "Philosophy", "Gaming",  "Comedy", "Ms. Rachel"]
 ```
 
 ---  
