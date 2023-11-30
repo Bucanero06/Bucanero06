@@ -1,13 +1,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Think%20Unearth%20Manifest&fontSize=60&animation=fadeIn"/>
 </p>
-
 <h2 align="center">👋 Hi, I'm Ruben Alejandro Fernandez Carbon</h2>
 <p align="center">
   <em>Full Stack Developer and Founder at Carbonyl R&D</em>
+  
 </p>
 
+
+
+
  🌱 As a Biotechnology Graduate and Full Stack Developer, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
+
+<div align="center">
+<img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="300">
+</div>
 
 My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
 
