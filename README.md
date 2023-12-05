@@ -3,14 +3,14 @@
 </p>
 <h2 align="center">👋 Hi, I'm Ruben Alejandro Fernandez Carbon</h2>
 <p align="center">
-  <em>Full Stack Developer and Founder at Carbonyl R&D</em>
+  <em>Solutions Architect and Founder at Carbonyl R&D</em>
   
 </p>
 
 
 
 
- 🌱 As a Biotechnology Graduate and Full Stack Developer, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
+ 🌱 As a Biotechnology Graduate and Solutions Architect, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
 
 <div align="center">
 <img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="300">
@@ -27,7 +27,6 @@ My journey is not just about professional milestones or technical achievements; 
 ```yaml
 name: Ruben Alejandro Fernandez Carbon
 located_in: Orlando, Florida
-current_role: Full Stack Developer and Founder
 education:
   [
     "Bachelor's in Biotechnology",
@@ -37,7 +36,7 @@ education:
   ]
 company: Carbonyl R&D
 
-fields_of_interests:
+my_very_real_list_of_interests:
   [
     "Emerging Trends in Quantum Biology and Computational Physics, with a focus on Quantum Computing Applications and Computational Models in Particle Physics",
     "Advanced Technologies for Deep Space Exploration and Astrobiology, including Nanotechnology in Spacecraft Design and Research into Extremophiles",
