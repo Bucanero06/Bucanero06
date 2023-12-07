@@ -152,13 +152,21 @@ hobbies: ["Soccer", "Writing", "Philosophy", "Gaming",  "Comedy", "Ms. Rachel"]
 
 ## P.S. To my future partners ... this is my letter to you ... 
 
-Hello, my name is Ruben and I love learning and the art of learning. I want to learn from the brightest and most inspiring companies I believe of this generation. My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase to include studying electronic charge migration and its reconstruction from experimental 2D spectra data.
+Hello, my name is Ruben and I love learning. The flow of information and the complex dynamics leading to action are in fact what most fields study, it makes sense to keep falling in love everywhere I look. 
 
-Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills. From that point on I have continued to fund my passion research, I've been a strong father and husband. I have kept my head high, and I've learned when to put my head down and get things done, at this stage in my life I'm ready to go back and finish my Ph.D. in Physics but do not have the money to, I crave the next chapter in contributing to all that is around me, I want to make a difference along others with a shared vision.
+My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase to include studying electronic charge migration and its reconstruction from experimental 2D spectra data.
+
+Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills. From that point on I have continued to fund my passion research, I've been a strong father and husband, and I have expanded my abilities beyond my naive expectations. I have kept my head high, and I've learned when to put my head down and get things done, at this stage in my life I'm ready to go back and finish my Ph.D. in Physics but do not have the money to, I still crave the next chapter in contributing to all that is around me, I want to make a difference along others with a shared collaborative drive.
 
 If you would consider me as a candidate and view my skills and positions as something to be molded over time, there is nothing I wouldn't do for a company that would give me the future I have dreamed for my daughter.
 
 Thank you for your time and for everything you guys represent for so many.
 
-Best Wishes, 
-Ruben Alejandro Fernandez Carbon
+Best Wishes, Ruben Alejandro Fernandez Carbon
+
+
+
+
+
+
+
