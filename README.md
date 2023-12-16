@@ -10,19 +10,11 @@
 
 
 
- 🌱 As a Biotechnology Graduate and Solutions Architect, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
+ 🌱 As a Biotechnology Graduate and Programmer, I'm deeply passionate about merging technology with biology to explore new frontiers in science and humanity. My journey is driven by a desire to contribute to meaningful advancements, especially in space exploration and creating a more interconnected society. I believe in collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
 
 <div align="center">
 <img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="300">
 </div>
-
-My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
-
-
-
-<!--- 
-![Snake animation](https://github.com/Bucanero06/Bucanero06/blob/output/github-contribution-grid-snake.svg) 
---->
 
 ```yaml
 name: Ruben Alejandro Fernandez Carbon
@@ -32,37 +24,25 @@ education:
     "Bachelor's in Biotechnology",
     "Minor in Physics",
     "Associate of Arts with Chemistry Track",
-    "Self-Taught Programmer and Business Owner",
   ]
 company: Carbonyl R&D
 
-my_very_real_list_of_interests:
-  [
-    "Emerging Trends in Quantum Biology and Computational Physics, with a focus on Quantum Computing Applications and Computational Models in Particle Physics",
-    "Advanced Technologies for Deep Space Exploration and Astrobiology, including Nanotechnology in Spacecraft Design and Research into Extremophiles",
-    "Synergizing Biotechnology with Cutting-Edge Artificial Intelligence",
-    "Data Science Applications in Genomics and Personalized Medicine",
-    "Machine Learning Algorithms for Predictive Modeling in Complex Systems",
-    "Electron and Charge Migration in Open-Quantum Systems",
-    "Advancing Human Knowledge of Sustainable Earth and Space Habitats, emphasizing on Sustainable Energy Solutions",
-    "Integration of IoT and Biotechnology for Smart Healthcare Solutions",
-    "Applying Interdisciplinary Expertise to Decode and Leverage the Expanding Universe of Government-Backed Research for Innovative Solutions"
-  ]
 technical_background:
   [
     "Programming Languages: Python, Fortran, Rust, JavaScript, HTML",
-    "Data Science & Machine Learning: Sklearn, SciPy, Keras, TensorFlow, RAPIDS, Ray, Pandas, Numpy, Dask, Numba",
+    "Machine Learning: Sklearn, Keras, TensorFlow, Ray, Dask, Optuna",
     "Web Development: FastAPI, Uvicorn, Pydantic, React, Node.js, HTML5, CSS3, Bootstrap",
     "Database Management: PostgreSQL, Redis, Apache Kafka, MySQL, MongoDB, Firestore",
     "DevOps & Virtualization: Docker, Kubernetes, Terraform, AWS, GCP",
-    "Version Control & CI/CD: Git, GitHub, GitLab, Bitbucket, Continuous Integration and Deployment Concepts",
-    "High-Performance Computing: OpenMolcas, RAPIDS, Ray, Dask, DensityPy, NautilusTrader, Vectorbt",
-    "Quantitative Analysis Tools: ASTRA, NautilusTrader, Vectorbt, DensityPy",
+    "Version Control & CI/CD: Git, GitHub, GitLab, Bitbucket, Continuous Integration, and Deployment Concepts",
+    "Quantitative Analysis Tools:  Numpy Pandas, SciPy, OpenMolcas, RAPIDS, Ray, Dask, DensityPy, Vectorbt DensityPy",
     "Other Skills: Debugging, Software Design, Cloud Infrastructure, Only Use Linux, Unit Testing"
   ]
-
-hobbies: ["Soccer", "Writing", "Philosophy", "Gaming",  "Comedy", "Ms. Rachel"]
 ```
+
+My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
+
+
 
 ---  
 
