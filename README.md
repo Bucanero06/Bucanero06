@@ -35,7 +35,7 @@ technical_background:
     "Database Management: PostgreSQL, Redis, Apache Kafka, MySQL, MongoDB, Firestore",
     "DevOps & Virtualization: Docker, Kubernetes, Terraform, AWS, GCP",
     "Version Control & CI/CD: Git, GitHub, GitLab, Bitbucket, Continuous Integration, and Deployment Concepts",
-    "Quantitative Analysis Tools:  Numpy Pandas, SciPy, OpenMolcas, RAPIDS, Ray, Dask, DensityPy, Vectorbt DensityPy",
+    "Quantitative Analysis Tools:  Numpy Pandas, SciPy, OpenMolcas, RAPIDS, Ray, Dask, DensityPy, Vectorbt, DensityPy",
     "Other Skills: Debugging, Software Design, Cloud Infrastructure, Only Use Linux, Unit Testing"
   ]
 ```
