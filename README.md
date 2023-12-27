@@ -38,7 +38,7 @@ technical_background:
   ]
 ```
 
-My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – both as technologists and as stewards of humanity's collective future.
+My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – as stewards of humanity's collective future.
 
 
 
