@@ -11,7 +11,7 @@
  🌱 As a Biotechnology Graduate and Programmer, my journey is driven by a desire to contribute to meaningful advancements through collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
 
 <div align="center">
-<img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="300">
+<img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="200">
 </div>
 
 ```yaml
