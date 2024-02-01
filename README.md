@@ -8,11 +8,13 @@
 </p>
 
 
- 🌱 As a Biotechnology Graduate and Programmer, my journey is driven by a desire to contribute to meaningful advancements through collaborative innovation and seek to be part of a team that values curiosity, resilience, and a forward-thinking approach to tackle the challenges of our generation and beyond.
+ 🌱 As a Biotechnology Graduate and Programmer, my journey is driven by a desire to contribute to meaningful advancements through collaborative innovation and fully believe, together, we can unearth new possibilities and manifest a future that reflects our highest aspirations – as stewards of humanity's collective future.
 
 <div align="center">
-<img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="200">
+<img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="300">
+<img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/2c06251e-b616-45e1-8d11-36a94d2aadfe" height="300">
 </div>
+
 
 ```yaml
 name: Ruben Alejandro Fernandez Carbon
@@ -38,9 +40,16 @@ technical_background:
   ]
 ```
 
-My journey is not just about professional milestones or technical achievements; it's about being part of something larger than myself. Together, I believe we can unearth new possibilities and manifest a future that reflects our highest aspirations – as stewards of humanity's collective future.
+## P.S.
 
+Hello, my name is Ruben and I love learning. The flow of information and the complex dynamics leading to action are in fact what most fields study, it makes sense to keep falling in love everywhere I look. 
 
+My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase; one of the best decisions I could have ever made.
+
+Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills in areas I wouldn't normally encounter. From that point on I have continued to fund my research and helped a handful of small and international businesses develop their internal tools and real-time applications; expanding my abilities beyond my naive expectations. At this stage in my life I'm ready to go back and finish my Ph.D. in Physics but do not have the money to, I still crave the next chapter in contributing to all that is around me; and to that end, I'll continue to grow my armory where it counts walking among others that share the collaborative drive, 
+
+Best Wishes, 
+Ruben Alejandro Fernandez Carbon
 
 ---  
 
@@ -127,21 +136,3 @@ My journey is not just about professional milestones or technical achievements; 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-## P.S.
-
-Hello, my name is Ruben and I love learning. The flow of information and the complex dynamics leading to action are in fact what most fields study, it makes sense to keep falling in love everywhere I look. 
-
-My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase; one of the best decisions I could have ever made.
-
-Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills in areas I wouldn't normally encounter. From that point on I have continued to fund my research and helped a handful of small and international businesses develop their internal tools and real-time applications; expanding my abilities beyond my naive expectations. At this stage in my life I'm ready to go back and finish my Ph.D. in Physics but do not have the money to, I still crave the next chapter in contributing to all that is around me; and to that end, I'll continue to grow my armory where it counts walking among others that share the collaborative drive, 
-
-Best Wishes, 
-Ruben Alejandro Fernandez Carbon
-
-
-
-
-
-
-
