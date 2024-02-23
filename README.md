@@ -40,14 +40,6 @@ technical_background:
   ]
 ```
 
-## P.S.
-
-Hello, my name is Ruben and I love learning. The flow of information and the complex dynamics leading to action are in fact what most fields study, it makes sense to keep falling in love everywhere I look. 
-
-My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase; one of the best decisions I could have ever made.
-
-Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills in areas I wouldn't normally encounter. From that point on I have continued to fund my research and helped a handful of small and international businesses develop their internal tools and real-time applications; expanding my abilities beyond my naive expectations.
-
 ---  
 
 <p align="center">
@@ -129,6 +121,15 @@ Two years ago I began my first legally structured research and development ventu
   
 </div>
 
+---
+
+## P.S.
+
+Hello, my name is Ruben and I love learning. The flow of information and the complex dynamics leading to action are in fact what most fields study, it makes sense to keep falling in love everywhere I look. 
+
+My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase; one of the best decisions I could have ever made.
+
+Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills in areas I wouldn't normally encounter. From that point on I have continued to fund my research and helped a handful of small and international businesses develop their internal tools and real-time applications; expanding my abilities beyond my naive expectations.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
