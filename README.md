@@ -129,7 +129,7 @@ Hello, my name is Ruben and I love learning. The flow of information and the com
 
 My background is filled with molecular biology and have for a long time been deeply in love with chemistry. In search of deeper truths and to feed my curiosity I joined a brilliant UCF's CREOL professor Luca Argenti and combined our common love for physics and structural biology to expand his AttoSecond TRAnsitions (ASTRA) codebase; one of the best decisions I could have ever made.
 
-Two years ago I began my first legally structured research and development venture to enhance my problem-solving and practical skills in areas I wouldn't normally encounter. From that point on I have continued to fund my research and helped a handful of small and international businesses develop their internal tools and real-time applications; expanding my abilities beyond my naive expectations.
+Two years ago I founded a research and development venture to enhance my problem-solving and practical skills in areas and through tools I wouldn't normally encounter. From that point on I have continued to fund my research and helped a small local and international businesses develop their internal tools and real-time applications; expanding my abilities beyond my naive expectations. PhD I'm coming for you; * *places stone on gauntlet* *. 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
