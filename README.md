@@ -2,17 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Think%20Unearth%20Manifest&fontSize=60&animation=fadeIn"/>
 </p>
 <h2 align="center">👋 Hi, I'm Ruben Alejandro Fernandez Carbon</h2>
-<p align="center">
-  <em>Solutions Architect and Founder at Carbonyl R&D</em>
-  
-</p>
 
-
- 🌱 As a Biotechnology Graduate and Programmer, my journey is driven by a desire to contribute to meaningful advancements through collaborative innovation and fully believe, together, we can unearth new possibilities and manifest a future that reflects our highest aspirations – as stewards of humanity's collective future.
+ 🌱 My life is presented to me through the manifestation of a future that reflects our highest aspirations – as stewards of humanity's collective future.
 
 <div align="center">
 <img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/121804dc-93ef-40d7-9c0f-86e07a192cab" height="300">
 <img src="https://github.com/Bucanero06/Bucanero06/assets/60953006/2c06251e-b616-45e1-8d11-36a94d2aadfe" height="300">
+<img src="https://github.com/user-attachments/assets/4df2080b-d7a2-4ee9-9051-c60c03032bb9" height="300">
 </div>
 
 
