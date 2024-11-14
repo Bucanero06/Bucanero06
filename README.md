@@ -25,7 +25,7 @@ company: Carbonyl R&D
 
 technical_background:
   [
-    "Programming Languages: Python, Fortran, Rust, JavaScript, HTML",
+    "Programming Languages: Python, Fortran, Rust, JavaScript, HTML, Go",
     "Machine Learning: Sklearn, Keras, TensorFlow, Ray, Dask, Optuna",
     "Web Development: FastAPI, Uvicorn, Pydantic, React, Node.js, HTML5, CSS3, Bootstrap",
     "Database Management: PostgreSQL, Redis, Apache Kafka, MySQL, MongoDB, Firestore",
